@@ -1,8 +1,9 @@
 ### Olá! Eu sou Matheus da Costa Harduim 👋🏽
+Atualmente, estou em busca de uma oportunidade como estagiário em tecnologia da informação, sendo um graduando de Engenharia de Computação pela Universidade do Estado do Rio de Janeiro. Além disso, sou bolsista de iniciação científica da mesma, tendo recebido menção honrosa na 32ª Semana de Iniciação da UERJ em 2023. Possuo conhecimentos intermediários em inglês que estou desenvolvendo. Gosto de buscar soluções eficientes para problemas complexos, além de sempre buscar ajudar em trabalhos de equipe. Considero-me alguém responsável, proativo e comunicativo.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/MCHarduim)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/MCHarduim)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55021994069932)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusharduimcorp@gmail.com)
 
 <!-- ![Harduim GitHub stats](https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight&height=400)
 ![Harduim Githhub Percent](https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight&200.25rem) -->
@@ -23,22 +24,18 @@
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![arduno](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-<!--
-**harduim300/harduim300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias que possuo conhecimento:
+![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Estou à disposição para uma conversa e para fornecer qualquer informação adicional que seja necessária. 🙂👍
