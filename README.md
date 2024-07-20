@@ -4,11 +4,13 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-![Harduim GitHub stats](https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight&height=200.25rem)
-![Harduim Githhub Percent](https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight&200.25rem)
+<!-- ![Harduim GitHub stats](https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight&height=400)
+![Harduim Githhub Percent](https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight&200.25rem) -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight" height="200.25rem" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight" height="200.25rem" /> -->
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight" height="200.25rem" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight" height="200.25rem" />
+</div>
 
 ## Possuo conhecimentos em:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
