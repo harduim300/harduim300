@@ -7,15 +7,15 @@
 <!-- ![Harduim GitHub stats](https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight&height=400)
 ![Harduim Githhub Percent](https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight&200.25rem) -->
 
-<!-- <div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight" height="200.25rem" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight" height="200.25rem" />
-</div> -->
+</div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight" style="height: auto; max-width: 65%; flex: 1 1 45%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight" style="height: auto; max-width: 28.5%; flex: 1 1 45%;" />
-</div>
+</div> -->
 
 ## Possuo conhecimentos em:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
