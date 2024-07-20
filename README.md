@@ -7,8 +7,8 @@
 <!-- ![Harduim GitHub stats](https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight) -->
 <!-- ![Harduim Githhub Percent](https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight" height="250.25rem" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight" height="250.25rem" />
+<img src="https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight" height="200.25rem" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight" height="200.25rem" />
 
 ## Possuo conhecimentos em:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
