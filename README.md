@@ -9,9 +9,17 @@ Atualmente, estou em busca de uma oportunidade como estagiário em tecnologia da
 ![Harduim Githhub Percent](https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=tokyonight&200.25rem) -->
 
 <div style="display: flex; flex-direction: row;">
-    <img style="" src="https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=dark" height="220.25rem" />
+    <img src="https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=dark" height="220.25rem" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harduim300&theme=dark" height="220.25rem" />
+    
 </div>
+
+
+## Desenvolvimento últimos 7 dias
+<div style="display: flex; flex-direction: row;">
+    <img style="" src="https://github-readme-stats.vercel.app/api/wakatime?username=harduim300&show_icons=true&theme=dark"/>
+</div>
+
 
 <!-- <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=harduim300&show_icons=true&theme=tokyonight" style="height: auto; max-width: 65%; flex: 1 1 45%;" />
