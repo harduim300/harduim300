@@ -14,7 +14,7 @@ Atualmente, estou em busca de uma oportunidade como estagiário em tecnologia da
     
 </div>
 
-## Desenvolvimento a partir de 28/07/2024
+## Monitoramento a partir de 28/07/2024
 <div style="display: flex; flex-direction: row;">
     <img style="" src="https://github-readme-stats.vercel.app/api/wakatime?username=harduim300&show_icons=true&theme=dark"/>
 </div>
